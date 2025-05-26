@@ -18,14 +18,12 @@ The datasets used in this project can be found at the following links:
 
 2. Training diffusion model
    
-   Please create a new folder dm_ckpt to save the trained model.
-   
     ```bash
    python train_diffusion.py
 
 ## Sample
 
   ```bash
-  sec_sample.py
+  sample.py
 
 ## Optimize
