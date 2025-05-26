@@ -1,8 +1,13 @@
 ## Paper Data
 
-The ChEBI-20 dataset used in this project can be found [here](https://github.com/blender-nlp/MolT5/tree/main/ChEBI-20_data).
+The datasets used in this project can be found at the following links:
 
-[Scibert](https://huggingface.co/allenai/scibert_scivocab_uncased) and put it into the folder `scibert`.
+- **Training dataset for training molecular generative models:**
+
+  - The [**ChEMBL**](https://chembl.gitbook.io/chembl-interface-documentation/downloads) dataset used in this project can be found here.  
+  - The [**QM9**](https://drive.google.com/file/d/1JZ_Z5bjS0RsX_BRWtrplMN9vZpL78-T7/view?usp=drive_link) dataset used in this project can be found here.  
+  - The [**GEOM-Drug**](https://dataverse.harvard.edu/file.xhtml?fileId=4360331&version=2.0) dataset used in this project can be found here.  
+  - The [**ZINC**](https://drive.google.com/file/d/1N44fpvCKEqI3xorXH7Q9sOq2f4ylCUwz/view) dataset used in this project can be found here.  
 
 ## Training
 
