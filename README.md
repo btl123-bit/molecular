@@ -23,9 +23,14 @@ The datasets used in this project can be found at the following links:
 
 ## Sample
 
-  Sampling molecules using generative models.
+    Sampling molecules using generative models.
   
-  ```bash
-  sample.py
+    ```bash
+    sample.py
 
-##  Optimize
+## Optimize
+
+Please run the optimize_affinity.py and optimize_similarity.py files to optimize the generative model for specific tasks.
+
+
+
