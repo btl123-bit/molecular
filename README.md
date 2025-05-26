@@ -23,7 +23,7 @@ The datasets used in this project can be found at the following links:
 
 ## Sample
 
-    Sampling molecules using generative models.
+  Sampling molecules using generative models.
   
     ```bash
     sample.py
